@@ -17,3 +17,5 @@ This assignment consists of following tasks:
 * Python 3.6.4 and Anaconda3-5.1.0 (64-bit)
 ## Libraries Used
 * pandas 0.22.0 (for data frame, included in Anaconda Python 3.6)
+* LinearRegression (for fit() and predict() functions)
+* math (for modf() functions)
