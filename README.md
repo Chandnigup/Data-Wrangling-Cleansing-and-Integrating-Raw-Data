@@ -2,6 +2,8 @@
 # Table of Contents
 * [Introduction](#introduction)
 * [Getting Started](#getting-started)
+  * [Environment](#environment)
+  * [libraries Used](#libraries-used)
   
 # Introduction
 This assignment consists of following tasks:
